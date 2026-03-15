@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Arjun KC 👋
 
-<!--
-**Arjun466-gh/Arjun466-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Mathematics student at UC Davis with a CS minor, focused on AI, machine learning, and data analytics.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+`Python` `C++` `Java` `JavaScript` `TypeScript`
+
+**Areas**
+`AI / ML` `Model Evaluation` `Data Analysis & Analytics` `Quality Assurance` `Quantitative Reasoning`
+
+## 🚧 Projects
+
+Working on it. Check back soon.
+
+## 🔗 Connect with Me
+
+- 🌐 [arjunkc.com](https://arjunkc.com)
+- 💼 [LinkedIn](https://linkedin.com/in/arjunkc4)
+- 𝕏 [X](https://x.com/arjun_kc466)
+- 📧 [arjunnkc466@gmail.com](mailto:arjunnkc466@gmail.com)
